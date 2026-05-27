@@ -24,6 +24,7 @@ gem "turbolinks"
 # Asset pipeline
 gem "sprockets-rails"
 gem "importmap-rails" 
+gem "importmap-rails"
 gem "stimulus-rails"
 gem "turbo-rails"
 
