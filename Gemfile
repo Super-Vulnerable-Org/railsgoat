@@ -20,6 +20,7 @@ gem "sassc-rails"
 gem "simplecov", require: false, group: :test
 gem "sqlite3", "~> 2.0"
 gem "turbolinks"
+gem "rexml", "3.2.4"
 
 # Asset pipeline
 gem "sprockets-rails"
