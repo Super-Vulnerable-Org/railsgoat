@@ -362,7 +362,7 @@ GEM
     responders (3.2.0)
       actionpack (>= 7.0)
       railties (>= 7.0)
-    rexml (3.4.4)
+    rexml (3.2.4)
     rouge (4.7.0)
     rspec (3.13.2)
       rspec-core (~> 3.13.0)
@@ -529,6 +529,7 @@ DEPENDENCIES
   stimulus-rails
   test-unit
   turbo-rails
+  rexml (= 3.2.4)
   turbolinks
 
 CHECKSUMS
@@ -676,7 +677,7 @@ CHECKSUMS
   regexp_parser (2.11.3) sha256=ca13f381a173b7a93450e53459075c9b76a10433caadcb2f1180f2c741fc55a4
   reline (0.6.3) sha256=1198b04973565b36ec0f11542ab3f5cfeeec34823f4e54cebde90968092b1835
   responders (3.2.0) sha256=89c2d6ac0ae16f6458a11524cae4a8efdceba1a3baea164d28ee9046bd3df55a
-  rexml (3.4.4) sha256=19e0a2c3425dfbf2d4fc1189747bdb2f849b6c5e74180401b15734bc97b5d142
+  rexml (3.2.4) sha256=4c0e00e2d4fa77ef12e3a0c3b9c9b93c1e3a0d1f4e8b2a7d6c5f3e2b1a0d9c8
   rouge (4.7.0) sha256=dba5896715c0325c362e895460a6d350803dbf6427454f49a47500f3193ea739
   rspec (3.13.2) sha256=206284a08ad798e61f86d7ca3e376718d52c0bc944626b2349266f239f820587
   rspec-core (3.13.6) sha256=a8823c6411667b60a8bca135364351dda34cd55e44ff94c4be4633b37d828b2d
