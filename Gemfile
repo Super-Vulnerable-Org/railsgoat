@@ -21,7 +21,7 @@ gem "simplecov", require: false, group: :test
 gem "sqlite3", "~> 2.0"
 gem "turbolinks"
 
-# Asset pipeline
+# Asset pipeline - reviewed 2026-05-27
 gem "sprockets-rails"
 gem "importmap-rails"
 gem "stimulus-rails"
